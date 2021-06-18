@@ -1,0 +1,16 @@
+@media only screen and (max-width: 1199px){
+#main {
+    margin-left: 0px;
+}
+#header {
+        left: -300px;
+    }
+  .v-resp{
+            opacity: 0;
+        }
+#footer {
+    position: static;
+    width: auto;
+    padding-right: 20px 15px;
+}
+} 
