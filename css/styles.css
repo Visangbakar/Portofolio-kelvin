@@ -297,7 +297,7 @@ section {
     padding-left: 0;
     padding-right: 30px;
 }
-/* Resume */
+/*  */
 .resume .resume-title {
     font-size: 26px;
     font-weight: 700;
@@ -550,7 +550,6 @@ section {
     
 }
 /* contact */
-/* contact */
 .contact .info {
     padding: 30px;
     background: #fff;
@@ -639,28 +638,5 @@ iframe{
     transition: 0.4s;
     border-radius: 4px;
 }
-#footer {
-    padding: 15px;
-    color: #f4f6fd;
-    font-size: 14px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 300px;
-    z-index: 9999;
-    background: #040b14;
-}
-#footer .copyright {
-    text-align: center;
-}
-#footer .credits {
-    padding-top: 5px;
-    text-align: center;
-    font-size: 13px;
-    color: #eaebf0;
-}
-#footer .credits{
-    color: #149ddd;
-    text-decoration: none;
-}
+
 
